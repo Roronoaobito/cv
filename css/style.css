@@ -1,0 +1,28 @@
+body {
+  background-color: #faebd7;
+}
+
+hr {
+  border-color: red;
+  border-style: none;
+  border-top-style: dotted;
+  width: 50%;
+  border-width: 5px;
+}
+h1{
+  font-style: oblique;
+  color: black;
+}
+#first{
+  color:green;
+}
+p{
+  font-style: italic;
+}
+.logo{
+  border-radius:100%;
+  width: 50%
+}
+.pic{
+  width:100%;
+}
